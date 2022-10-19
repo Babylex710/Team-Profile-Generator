@@ -1,0 +1,14 @@
+header {
+    background-color: orchid;
+    color: aliceblue;
+}
+
+.card-header {
+    background-color: rgb(10, 205, 205);
+    color: aliceblue;
+}
+
+.card {
+    box-shadow: 5px 5px 8px slategray;
+    margin: 1em;
+}

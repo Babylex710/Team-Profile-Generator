@@ -1,9 +1,13 @@
+const fs = require('fs');
 //inquirer library
 const inquirer = require('inquirer');
 
 const Engineer = require('./lib/Engineer');
 const Manager = require('./lib/Manager');
 const Intern = require('./lib/Intern');
+
+//generates html template
+const generateHTML = require('./src/generateHTML');
 
 //array of manager and interns
 const managers = [];
@@ -129,7 +133,8 @@ function createTeam() {
                 createEngineer();
                 break;
                 default:
-                    //generateHTML();
+                    fs.writeFileSync('./dist/team.html', generateHTML({ managers, engineers, interns}));
+  
                     return;
         }
     })
