@@ -21,3 +21,8 @@ User can find deployed app at [GitHub](https://github.com/Babylex710/Team-Profil
 The following image shows the web application's appearance:
 
    ![alt screenshot](./assets/Screen%20Shot%202022-10-19%20at%2010.18.36%20PM.png)
+
+## Walkthrough Video
+
+Walkthrough video [link](https://drive.google.com/file/d/14mf_xstKB_0tfLTgIKaoguxDTCaJPapX/view)
+
