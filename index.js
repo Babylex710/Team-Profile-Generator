@@ -14,6 +14,7 @@ const managers = [];
 const engineers = [];
 const interns = [];
 
+//function to generate manager info
 function createManager() {
     inquirer
         .prompt([
@@ -49,6 +50,7 @@ function createManager() {
 
 }
 
+//function to generate engineer info
 function createEngineer() {
     inquirer
     .prompt([
@@ -81,6 +83,7 @@ function createEngineer() {
     });
 }
 
+//function to generate intern info
 function createIntern() {
     inquirer
     .prompt([
@@ -113,6 +116,7 @@ function createIntern() {
     });
 }
 
+//function to create team
 function createTeam() {
     inquirer
     .prompt([

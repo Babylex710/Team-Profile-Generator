@@ -10,14 +10,14 @@ A command-line application that accepts user input to genterate a webpage that d
 
 - an engineer can input their name, employee ID, email address, and GitHub username
 
-- an interne can input their name, employee ID, email address, and school
+- an intern can input their name, employee ID, email address, and school
 
 - a HTML file is generated after all information has been entered
 
 ## Usage
 
-User can find deployed app at [GitHub]()
+User can find deployed app at [GitHub](https://github.com/Babylex710/Team-Profile-Generator)
 
 The following image shows the web application's appearance:
 
-   ![alt screenshot]()
+   ![alt screenshot](./assets/Screen%20Shot%202022-10-19%20at%2010.13.20%20PM.png)
