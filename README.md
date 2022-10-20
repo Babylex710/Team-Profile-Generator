@@ -4,7 +4,9 @@
 
 A command-line application that accepts user input to genterate a webpage that displays the manager's team basic information.
 
-- a manager can input their name, employee ID, email address, and office number
+-'npm start' to start application in the command-line
+
+- a manager can input their name, employee ID, email address, and office number 
 
 - an engineer can input their name, employee ID, email address, and GitHub username
 

@@ -11,4 +11,6 @@ header {
 .card {
     box-shadow: 5px 5px 8px slategray;
     margin: 1em;
+    justify-content: space-between;
+    flex-direction: column;
 }
